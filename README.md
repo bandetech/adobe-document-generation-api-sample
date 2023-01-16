@@ -8,6 +8,7 @@ Corresponding json data is embeded in sample code (SimpleGenerationApiDemo.java)
 
 ## Requirement
 API credential is required to run this sample. API credential is availabe from the above url.
+This sample contains placeholder of pdfservices-api-credentials.json and private.key. Please replace them after getting your credential.
 
 ## Build
 ~~~
